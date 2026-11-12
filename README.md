@@ -1,10 +1,10 @@
-# Darkpooltradeclusters
+# DarkpoolclustersMAP
 
 🫱 点击查看地图：https://angelochen1992.github.io/Darkpoolclustersmap/
 
 中文版简介：每天机构大单集中成交在哪些价位？一张图看清当天最罕见的暗池成交集群。
 
-# Darkpool Map｜暗池成交集群地图
+# DarkpoolclustersMAP｜暗池成交集群地图
 
 ## 什么是暗池成交集群？
 机构买卖大量股票时，为了不惊动市场，常常不在公开交易所挂单，
@@ -32,6 +32,38 @@
 ## 注意
 - 集群只能说明大资金在这个价位成交了，**看不出是买入还是卖出**。
 - 仅供参考，不构成投资建议。
+
+## What is a dark pool trade cluster?
+🫱 Check MAP here：https://angelochen1992.github.io/Darkpoolclustersmap/
+
+When institutions move large amounts of stock, they often avoid public
+exchanges and trade off-exchange through "dark pools" to avoid moving the price.
+
+When one stock prints several large trades at roughly the same price
+within a short time, that's a **trade cluster**. It marks a price level
+where big money changed hands, and traders often watch it later as
+support or resistance.
+
+## What does this tool do?
+It turns the day's top 100 trade clusters into a single heat map,
+so you can see at a glance which big trades are truly unusual.
+
+## How to read it
+- **Bigger box = rarer.** R1 means it's the largest cluster in that stock's history.
+- **Darker green = stands out more within its sector.**
+- **Box text**: ticker, rank, and cluster price.
+- **Hover**: time, dollar value, and when a cluster this size last happened.
+- **Top-right menus**: resize boxes by rarity, dollar value, or relative size, and group by sector or trading session.
+
+## Tables below the map
+- **Intraday clusters**: completed during regular hours. These are the most meaningful levels.
+- **Basket trades**: many stocks printing in the same minute after the close. Usually automated fund rebalancing, so less meaningful.
+
+## Note
+- A cluster shows *where* big money traded, **not whether it was buying or selling.**
+- For information only. Not investment advice.
+
+Data: VolumeLeaders.com | Made by @slowhandeth | Updated every trading day
 
 数据来源&制作：@slowhandeth ｜ 每个交易日更新
 
