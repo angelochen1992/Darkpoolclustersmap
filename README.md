@@ -1,4 +1,5 @@
 # DarkpoolclustersMAP
+my Twitter: https://x.com/slowhandeth
 
 🫱 点击查看地图：https://angelochen1992.github.io/Darkpoolclustersmap/
 
@@ -34,6 +35,7 @@
 - 仅供参考，不构成投资建议。
 
 ## What is a dark pool trade cluster?
+my Twitter: https://x.com/slowhandeth
 🫱 Check MAP here：https://angelochen1992.github.io/Darkpoolclustersmap/
 
 When institutions move large amounts of stock, they often avoid public
@@ -65,5 +67,5 @@ so you can see at a glance which big trades are truly unusual.
 
 Data: VolumeLeaders.com | Made by @slowhandeth | Updated every trading day
 
-数据来源&制作：@slowhandeth ｜ 每个交易日更新
+data from：@slowhandeth ｜ update daily
 
