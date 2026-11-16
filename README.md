@@ -3,7 +3,7 @@
 ## What is a dark pool trade cluster?
 my Twitter: https://x.com/slowhandeth
 
-🫱 Check MAP here：[[https://angelochen1992.github.io/Darkpoolclustersmap/](https://angelochen1992.github.io/Darkpoolclustersmap/)](https://angelochen1992.github.io/Darkpoolclustersmap/)
+🫱 Check MAP here：https://angelochen1992.github.io/Darkpoolclustersmap/
 
 When institutions move large amounts of stock, they often avoid public
 exchanges and trade off-exchange through "dark pools" to avoid moving the price.
@@ -42,7 +42,7 @@ data from：@slowhandeth ｜ update daily
 
 my Twitter: https://x.com/slowhandeth
 
-🫱 点击查看地图：[https://angelochen1992.github.io/Darkpoolclustersmap/](https://angelochen1992.github.io/Darkpoolclustersmap/)
+🫱 点击查看地图：https://angelochen1992.github.io/Darkpoolclustersmap/
 
 中文版简介：每天机构大单集中成交在哪些价位？一张图看清当天最罕见的暗池成交集群。
 
